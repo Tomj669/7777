@@ -662,186 +662,6 @@ video {
   top: 6rem;
 }
 
-.right-\[20px\]{
-  right: 20px;
-}
-
-.right-\[40px\]{
-  right: 40px;
-}
-
-.right-\[90px\]{
-  right: 90px;
-}
-
-.right-\[100px\]{
-  right: 100px;
-}
-
-.right-\[150px\]{
-  right: 150px;
-}
-
-.right-\[200px\]{
-  right: 200px;
-}
-
-.right-\[180px\]{
-  right: 180px;
-}
-
-.top-\[50px\]{
-  top: 50px;
-}
-
-.top-\[-50px\]{
-  top: -50px;
-}
-
-.top-\[150px\]{
-  top: 150px;
-}
-
-.top-\[200px\]{
-  top: 200px;
-}
-
-.top-\[190px\]{
-  top: 190px;
-}
-
-.right-\[175px\]{
-  right: 175px;
-}
-
-.right-\[170px\]{
-  right: 170px;
-}
-
-.right-\[185px\]{
-  right: 185px;
-}
-
-.right-\[181px\]{
-  right: 181px;
-}
-
-.right-\[182px\]{
-  right: 182px;
-}
-
-.right-\[184px\]{
-  right: 184px;
-}
-
-.right-\[178px\]{
-  right: 178px;
-}
-
-.right-\[0px\]{
-  right: 0px;
-}
-
-.right-\[500px\]{
-  right: 500px;
-}
-
-.right-\[400px\]{
-  right: 400px;
-}
-
-.right-\[420px\]{
-  right: 420px;
-}
-
-.right-\[410px\]{
-  right: 410px;
-}
-
-.top-\[100px\]{
-  top: 100px;
-}
-
-.top-\[0px\]{
-  top: 0px;
-}
-
-.top-\[\]{
-  top: ;
-}
-
-.left-\[-410px\]{
-  left: -410px;
-}
-
-.left-\[0px\]{
-  left: 0px;
-}
-
-.left-\[100px\]{
-  left: 100px;
-}
-
-.left-\[600px\]{
-  left: 600px;
-}
-
-.left-\[1000px\]{
-  left: 1000px;
-}
-
-.left-\[800px\]{
-  left: 800px;
-}
-
-.left-\[1200px\]{
-  left: 1200px;
-}
-
-.left-\[900px\]{
-  left: 900px;
-}
-
-.left-\[10px\]{
-  left: 10px;
-}
-
-.left-\[200px\]{
-  left: 200px;
-}
-
-.left-\[250px\]{
-  left: 250px;
-}
-
-.left-\[230px\]{
-  left: 230px;
-}
-
-.left-\[210px\]{
-  left: 210px;
-}
-
-.left-\[220px\]{
-  left: 220px;
-}
-
-.right-\[220px\]{
-  right: 220px;
-}
-
-.top-\[-100px\]{
-  top: -100px;
-}
-
-.top-\[-150px\]{
-  top: -150px;
-}
-
-.top-\[-160px\]{
-  top: -160px;
-}
-
 .-z-50{
   z-index: -50;
 }
@@ -1216,10 +1036,6 @@ video {
   height: 30px;
 }
 
-.h-\[353px\]{
-  height: 353px;
-}
-
 .h-\[357px\]{
   height: 357px;
 }
@@ -1306,10 +1122,6 @@ video {
 .max-h-max{
   max-height: -moz-max-content;
   max-height: max-content;
-}
-
-.max-h-\[353px\]{
-  max-height: 353px;
 }
 
 .min-h-\[100px\]{
